@@ -30,7 +30,7 @@ body{
   content:"";
   position:absolute;
   inset:-20px;
-  background-image: url('bckgrnd.jpg');
+  background-image: url('bckgrnd2.jpg');
   background-size: cover;
   background-position: center;
   filter: blur(6px) brightness(0.55);
